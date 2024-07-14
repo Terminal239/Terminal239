@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next, React, Node**
 
-- 👨‍💻 All of my projects are available at [https://dev-forge.netlify.app/](https://dev-forge.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://personal-project-portfolio-website.vercel.app/)
 
 - 📫 How to reach me **affan.shaikh2309@gmail.com**
 
